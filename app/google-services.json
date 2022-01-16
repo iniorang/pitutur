@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480860666185",
+    "project_id": "pitutur-29c7a",
+    "storage_bucket": "pitutur-29c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480860666185:android:41be7f174e76613cc7c298",
+        "android_client_info": {
+          "package_name": "com.faqihapp.pitutur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480860666185-tm69ho7rc2m9rgpa808vk0t79lgomnfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxrc2-bYvPhKBBuSzuZSRxgOy8meFY6Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480860666185-tm69ho7rc2m9rgpa808vk0t79lgomnfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
