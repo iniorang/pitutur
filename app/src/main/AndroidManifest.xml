@@ -2,20 +2,26 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.faqihapp.pitutur">
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
         tools:ignore="ScopedStorage" />
-    
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:supportsRtl="true"
-        android:theme="@style/Theme.Pitutur">
+        android:supportsRtl="true">
+        <activity
+            android:name=".Login"
+            android:exported="false"
+            android:theme="@style/theme2"/>
         <activity
             android:name=".splashscreen_act"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/theme1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
