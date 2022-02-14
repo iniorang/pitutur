@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable-v24/bentuk_tombol.xml" value="0.1" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/bentuk_tombol.xml" value="0.1" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/splashscreen_act.xml" value="0.22" />
       </map>

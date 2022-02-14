@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Pitutur</string>
     <string name="logo_splashscreen">logo_splash</string>
-    <string name="judul_aplikasi">PITUTUR</string>
+    <string name="judul_aplikasi">Pitutur</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
 </resources>
