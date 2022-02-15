@@ -15,9 +15,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true">
         <activity
-            android:name=".Login"
+            android:name=".lupa_pass_act"
             android:exported="false"
-            android:theme="@style/theme2"/>
+            android:theme="@style/allwhite"/>
+        <activity
+            android:name=".register_act"
+            android:exported="false"
+            android:theme="@style/theme2" />
+        <activity
+            android:name=".login_act"
+            android:exported="false"
+            android:theme="@style/theme2" />
         <activity
             android:name=".splashscreen_act"
             android:exported="true"

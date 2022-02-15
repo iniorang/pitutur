@@ -4,10 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable-v24/bentuk_tombol.xml" value="0.1" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable-v24/bg_register_shape.xml" value="0.1805" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable-v24/button_back_reg.xml" value="0.141" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable-v24/cross_cancel.xml" value="0.141" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable-v24/custom_click_text.xml" value="0.1805" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/bentuk_tombol.xml" value="0.1" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/bg_register_shape.xml" value="0.1805" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/button_back_reg.xml" value="0.141" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/cross_cancel.xml" value="0.141" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/custom_click_text_2.xml" value="0.141" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_login.xml" value="0.4028776978417266" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_lupa_pass.xml" value="0.22" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/activity_register.xml" value="0.22" />
         <entry key="..\:/Project/Android/pitutur/app/src/main/res/layout/splashscreen_act.xml" value="0.22" />
       </map>
     </option>

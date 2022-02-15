@@ -2,6 +2,15 @@
     <string name="app_name">Pitutur</string>
     <string name="logo_splashscreen">logo_splash</string>
     <string name="judul_aplikasi">Pitutur</string>
-    <string name="email_login">Email</string>
+    <string name="email_string">Email</string>
     <string name="password_login">Password</string>
+    <string name="register_string">Register</string>
+    <string name="login_string">Login</string>
+    <string name="nama_lengkap_string">Nama Lengkap</string>
+    <string name="nim_string">NIM</string>
+    <string name="jurusan_register">Jurusan</string>
+    <string name="daftar_string">Register</string>
+    <string name="lupa_password_string">Lupa Password</string>
+    <string name="proses_string">Proses</string>
+    <string name="belum_punya_akun_string">Belum Punya Akun?</string>
 </resources>
